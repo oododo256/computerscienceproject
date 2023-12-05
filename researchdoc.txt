@@ -1,0 +1,4 @@
+videos, articles, tutorials:
+
+LINK                                        | Title                                                                    | Use
+https://www.youtube.com/watch?v=2Ip8FWd6w60 | Building a Digital Clock with Arduino Uno Rev4 WiFi's RTC and LED Matrix | Research
