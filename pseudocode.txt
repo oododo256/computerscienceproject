@@ -1,0 +1,7 @@
+on A button press		   // when A button is pressed
+	if timerOn is 0 {          // timer off
+		timerLength = 0    // reset timer
+		timerOn = 1        // set timer to on
+	elif timerOn is 1 {	   // timer on
+		timerOn = 0        // stop timer
+		print(timerLength) // show how long the timer went
