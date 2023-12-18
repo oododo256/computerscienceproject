@@ -1,9 +1,0 @@
-videos, articles, tutorials:
-
-LINK                                                           | Title                                                                    | Use
-https://www.youtube.com/watch?v=2Ip8FWd6w60                    | Building a Digital Clock with Arduino Uno Rev4 WiFi's RTC and LED Matrix | Research
-https://www.youtube.com/watch?v=gQYsUjT-IBo                    | Communicating from an Arduino to an HTML/JavaScript Webpage              | Research
-https://github.com/codeadamca/arduino-to-nodejs                | arduino-to-nodejs GitHub Repo                                            | Research
-https://cs4760.csl.mtu.edu/2020/lectures/webusb-with-microbit  | WebUSB with Micro:bit                                                    | Research
-https://developer.chrome.com/docs/capabilities/usb             | Access USB Devices on the Web                                            | Research
-https://microbit.org/get-started/user-guide/data-logging/      | Microbit Datalogging                                                     | Research
