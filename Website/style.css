@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgba(255, 255, 255, 0.5);
+}
+.title {
+    background-color: rgb(2, 54, 151);  
+    color: rgb(253, 253, 253);  
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 80px; 
+    margin-left: 0px;
+}
+h2 {
+    color: rgb(253, 252, 252);  
+}
+p {
+    margin-right: 400px;
+    margin-left: 400px;
+}
