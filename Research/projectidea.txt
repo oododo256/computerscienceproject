@@ -1,0 +1,16 @@
+-Setup-
+Press A to set time
+Press B to set alarm
+(Displays time on loop, Indicates Alarm Is Set)
+
+-Bedtime-
+Press A+B to say your going to bed
+Press A+B to dismiss alarm, shake to snooze
+(Displays alarm icon, makes noise)
+
+-Wake Up-
+Press A Increase mood score
+Press B decrease mood score
+Press A+B to set score
+Get time between bed and wake
+Send to thingspeak

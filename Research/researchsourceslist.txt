@@ -8,3 +8,4 @@ https://cs4760.csl.mtu.edu/2020/lectures/webusb-with-microbit  | WebUSB with Mic
 https://developer.chrome.com/docs/capabilities/usb             | Access USB Devices on the Web                                                                                | Research
 https://microbit.org/get-started/user-guide/data-logging/      | Microbit Datalogging                                                                                         | Research
 https://pubmed.ncbi.nlm.nih.gov/17151164/                      | Controlled trial of naturalistic dawn simulation and negative air ionization for seasonal affective disorder | Research
+https://www.youtube.com/watch?v=vvEN0-Rn0Dk                    | Micro:bit IoT Board: Thingspeak                                                                              | Research  
